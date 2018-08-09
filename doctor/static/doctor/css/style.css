@@ -140,7 +140,7 @@ banner
 {
     background-color: rgba(12, 184, 182) !important;
 }
-#banner{
+#banner{ 
     /* general banner */
 	background-size: cover;
 	min-height: 650px;
